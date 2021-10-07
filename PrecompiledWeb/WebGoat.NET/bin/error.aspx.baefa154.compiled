@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/Error.aspx" hash="3df3be3f7" filehash="537ce7d5196be233" flags="110000" assembly="App_Web_error.aspx.baefa154" type="ASP.content_error_aspx">
+    <filedeps>
+        <filedep name="/Content/Error.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

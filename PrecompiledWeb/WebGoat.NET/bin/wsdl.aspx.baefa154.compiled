@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/WSDL.aspx" hash="3df3be3f7" filehash="4837cf5a2e964a0b" flags="110000" assembly="App_Web_wsdl.aspx.baefa154" type="ASP.content_wsdl_aspx">
+    <filedeps>
+        <filedep name="/Content/WSDL.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

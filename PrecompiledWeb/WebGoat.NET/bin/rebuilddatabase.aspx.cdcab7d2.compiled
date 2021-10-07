@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/RebuildDatabase.aspx" hash="3df3be3f7" filehash="c69984aa0f8088e0" flags="110000" assembly="App_Web_rebuilddatabase.aspx.cdcab7d2" type="ASP.rebuilddatabase_aspx">
+    <filedeps>
+        <filedep name="/RebuildDatabase.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

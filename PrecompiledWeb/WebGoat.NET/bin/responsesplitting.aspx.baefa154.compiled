@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/ResponseSplitting.aspx" hash="3df3be3f7" filehash="79ad5991e0fe50b8" flags="110000" assembly="App_Web_responsesplitting.aspx.baefa154" type="ASP.content_responsesplitting_aspx">
+    <filedeps>
+        <filedep name="/Content/ResponseSplitting.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

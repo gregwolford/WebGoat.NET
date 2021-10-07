@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/StoredXSS.aspx" hash="3df3be3f7" filehash="525beddca9eb2c29" flags="110000" assembly="App_Web_storedxss.aspx.baefa154" type="ASP.content_storedxss_aspx">
+    <filedeps>
+        <filedep name="/Content/StoredXSS.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/PwdComplexity.aspx" hash="3df3be3f7" filehash="1f36cc35b2f7b72f" flags="110000" assembly="App_Web_pwdcomplexity.aspx.baefa154" type="ASP.content_pwdcomplexity_aspx">
+    <filedeps>
+        <filedep name="/Content/PwdComplexity.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

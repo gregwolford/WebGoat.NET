@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/XMLInjection.aspx" hash="3df3be3f7" filehash="4d35c99ef0a0a830" flags="110000" assembly="App_Web_xmlinjection.aspx.baefa154" type="ASP.content_xmlinjection_aspx">
+    <filedeps>
+        <filedep name="/Content/XMLInjection.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

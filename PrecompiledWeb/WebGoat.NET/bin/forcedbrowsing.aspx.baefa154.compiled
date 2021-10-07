@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/ForcedBrowsing.aspx" hash="3df3be3f7" filehash="f51264d9ef8defcf" flags="110000" assembly="App_Web_forcedbrowsing.aspx.baefa154" type="ASP.content_forcedbrowsing_aspx">
+    <filedeps>
+        <filedep name="/Content/ForcedBrowsing.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

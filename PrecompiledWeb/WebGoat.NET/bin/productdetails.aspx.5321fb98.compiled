@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebGoatCoins/ProductDetails.aspx" hash="3df3be3f7" filehash="cd1e8d8d2e78e79e" flags="110000" assembly="App_Web_productdetails.aspx.5321fb98" type="ASP.webgoatcoins_productdetails_aspx">
+    <filedeps>
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+        <filedep name="/WebGoatCoins/ProductDetails.aspx" />
+    </filedeps>
+</preserve>

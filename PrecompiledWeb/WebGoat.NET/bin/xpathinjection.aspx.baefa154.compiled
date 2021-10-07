@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/XPathInjection.aspx" hash="3df3be3f7" filehash="182469b76df92cc7" flags="110000" assembly="App_Web_xpathinjection.aspx.baefa154" type="ASP.content_xpathinjection_aspx">
+    <filedeps>
+        <filedep name="/Content/XPathInjection.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

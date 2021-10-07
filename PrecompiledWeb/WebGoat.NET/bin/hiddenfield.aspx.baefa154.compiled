@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/HiddenField.aspx" hash="3df3be3f7" filehash="f373e86d0fdc4ff5" flags="110000" assembly="App_Web_hiddenfield.aspx.baefa154" type="ASP.content_hiddenfield_aspx">
+    <filedeps>
+        <filedep name="/Content/HiddenField.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

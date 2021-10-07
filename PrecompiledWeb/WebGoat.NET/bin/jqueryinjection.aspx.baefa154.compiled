@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/jQueryInjection.aspx" hash="3df3be3f7" filehash="a00559d5e17c23ed" flags="110000" assembly="App_Web_jqueryinjection.aspx.baefa154" type="ASP.content_jqueryinjection_aspx">
+    <filedeps>
+        <filedep name="/Content/jQueryInjection.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

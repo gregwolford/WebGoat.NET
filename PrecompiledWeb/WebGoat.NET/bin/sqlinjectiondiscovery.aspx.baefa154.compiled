@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/SQLInjectionDiscovery.aspx" hash="3df3be3f7" filehash="bcde6acc7a7508e7" flags="110000" assembly="App_Web_sqlinjectiondiscovery.aspx.baefa154" type="ASP.content_sqlinjectiondiscovery_aspx">
+    <filedeps>
+        <filedep name="/Content/SQLInjectionDiscovery.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

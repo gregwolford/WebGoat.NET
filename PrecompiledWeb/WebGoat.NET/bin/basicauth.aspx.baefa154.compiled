@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/BasicAuth.aspx" hash="3df3be3f7" filehash="25e5d15ee6d9c8e6" flags="110000" assembly="App_Web_basicauth.aspx.baefa154" type="ASP.content_basicauth_aspx">
+    <filedeps>
+        <filedep name="/Content/BasicAuth.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

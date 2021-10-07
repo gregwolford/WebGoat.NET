@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/LogoutIssues.aspx" hash="3df3be3f7" filehash="da73f15de6f28e07" flags="110000" assembly="App_Web_logoutissues.aspx.baefa154" type="ASP.content_logoutissues_aspx">
+    <filedeps>
+        <filedep name="/Content/LogoutIssues.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

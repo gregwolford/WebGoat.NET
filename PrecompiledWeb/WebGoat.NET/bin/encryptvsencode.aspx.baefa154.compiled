@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/EncryptVSEncode.aspx" hash="3df3be3f7" filehash="d41a907ae2a81ebe" flags="110000" assembly="App_Web_encryptvsencode.aspx.baefa154" type="ASP.content_encryptvsencode_aspx">
+    <filedeps>
+        <filedep name="/Content/EncryptVSEncode.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

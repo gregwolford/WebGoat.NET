@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/WebGoatCoins/Autocomplete.ashx" hash="ffffffffe3eba90b" filehash="ffffe289576b82d3" flags="130000" assembly="DotNetGoat" type="OWASP.WebGoat.NET.WebGoatCoins.Autocomplete">
+    <filedeps>
+        <filedep name="/WebGoatCoins/Autocomplete.ashx" />
+    </filedeps>
+</preserve>

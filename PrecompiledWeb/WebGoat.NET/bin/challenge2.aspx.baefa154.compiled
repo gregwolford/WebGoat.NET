@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/Challenge2.aspx" hash="3df3be3f7" filehash="779fce55dfa223ee" flags="110000" assembly="App_Web_challenge2.aspx.baefa154" type="ASP.content_challenge2_aspx">
+    <filedeps>
+        <filedep name="/Content/Challenge2.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

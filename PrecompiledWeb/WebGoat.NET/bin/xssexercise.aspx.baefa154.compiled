@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/XSSExercise.aspx" hash="3df3be3f7" filehash="22bc459fd503f9c3" flags="110000" assembly="App_Web_xssexercise.aspx.baefa154" type="ASP.content_xssexercise_aspx">
+    <filedeps>
+        <filedep name="/Content/XSSExercise.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

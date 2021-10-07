@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/SQLInjection.aspx" hash="3df3be3f7" filehash="45a3e6b0537d6f3b" flags="110000" assembly="App_Web_sqlinjection.aspx.baefa154" type="ASP.content_sqlinjection_aspx">
+    <filedeps>
+        <filedep name="/Content/SQLInjection.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/EmbeddedError.aspx" hash="3df3be3f7" filehash="d9c20160521b77aa" flags="110000" assembly="App_Web_embeddederror.aspx.baefa154" type="ASP.content_embeddederror_aspx">
+    <filedeps>
+        <filedep name="/Content/EmbeddedError.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

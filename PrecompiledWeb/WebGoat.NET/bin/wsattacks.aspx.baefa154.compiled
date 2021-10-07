@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/WSAttacks.aspx" hash="3df3be3f7" filehash="7cc493cae7715ea8" flags="110000" assembly="App_Web_wsattacks.aspx.baefa154" type="ASP.content_wsattacks_aspx">
+    <filedeps>
+        <filedep name="/Content/WSAttacks.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

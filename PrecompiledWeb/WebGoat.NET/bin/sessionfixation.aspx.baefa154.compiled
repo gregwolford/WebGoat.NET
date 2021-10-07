@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/SessionFixation.aspx" hash="3df3be3f7" filehash="157afb9eba0a4f98" flags="110000" assembly="App_Web_sessionfixation.aspx.baefa154" type="ASP.content_sessionfixation_aspx">
+    <filedeps>
+        <filedep name="/Content/SessionFixation.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

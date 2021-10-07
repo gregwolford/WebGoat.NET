@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/CommandInjection.aspx" hash="3df3be3f7" filehash="ea7bbfb2b834b556" flags="110000" assembly="App_Web_commandinjection.aspx.baefa154" type="ASP.content_commandinjection_aspx">
+    <filedeps>
+        <filedep name="/Content/CommandInjection.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

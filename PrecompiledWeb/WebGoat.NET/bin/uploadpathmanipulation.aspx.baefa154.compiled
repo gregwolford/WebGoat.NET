@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/UploadPathManipulation.aspx" hash="3df3be3f7" filehash="442f18c6dd6df80d" flags="110000" assembly="App_Web_uploadpathmanipulation.aspx.baefa154" type="ASP.content_uploadpathmanipulation_aspx">
+    <filedeps>
+        <filedep name="/Content/UploadPathManipulation.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

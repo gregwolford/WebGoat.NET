@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/FlashScripting.aspx" hash="3df3be3f7" filehash="9dac3910e93b3159" flags="110000" assembly="App_Web_flashscripting.aspx.baefa154" type="ASP.content_flashscripting_aspx">
+    <filedeps>
+        <filedep name="/Content/FlashScripting.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/Trace.aspx" hash="3df3be3f7" filehash="cc80840a989b9c0c" flags="110000" assembly="App_Web_trace.aspx.baefa154" type="ASP.content_trace_aspx">
+    <filedeps>
+        <filedep name="/Content/Trace.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

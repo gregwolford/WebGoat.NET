@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/FormBasedAuth.aspx" hash="3df3be3f7" filehash="711af7a864b04d4c" flags="110000" assembly="App_Web_formbasedauth.aspx.baefa154" type="ASP.content_formbasedauth_aspx">
+    <filedeps>
+        <filedep name="/Content/FormBasedAuth.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>

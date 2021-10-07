@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Content/InjectionExercise.aspx" hash="3df3be3f7" filehash="f82789c37185ef74" flags="110000" assembly="App_Web_injectionexercise.aspx.baefa154" type="ASP.content_injectionexercise_aspx">
+    <filedeps>
+        <filedep name="/Content/InjectionExercise.aspx" />
+        <filedep name="/Resources/Master-Pages/Site.Master" />
+    </filedeps>
+</preserve>
